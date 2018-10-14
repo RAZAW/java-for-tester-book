@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17859845-ed5b-4a72-9a8f-eb4b40ac9f27" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExampleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,11 +27,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+            <state relative-caret-position="385">
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassExampleTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExampleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="71" column="49" selection-start-line="71" selection-start-column="49" selection-end-line="71" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,8 +124,8 @@
       <file leaf-file-name="MyClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="e#159#160#0" expanded="true" />
                 <element signature="e#192#193#0" expanded="true" />
@@ -145,7 +172,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap006domainentities/examples/UserTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExampleTest.java" />
       </list>
     </option>
   </component>
@@ -284,6 +313,15 @@
             </path>
             <path>
               <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafortesters" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -317,23 +355,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyFirstTest.answerIs">
+  <component name="RunManager" selected="JUnit.ClassExampleTest.someStringMethods">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="MyFirstTest.answerIs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassExampleTest.IntegerTypes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap003myfirsttest.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap007basicsofjavarevisited.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap003myfirsttest.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" />
-      <option name="METHOD_NAME" value="answerIs" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest" />
+      <option name="METHOD_NAME" value="IntegerTypes" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -344,19 +382,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="UserTest.canChangeFieldValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassExampleTest.pubFieldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap006domainentities.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap007basicsofjavarevisited.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap006domainentities.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap006domainentities.examples.UserTest" />
-      <option name="METHOD_NAME" value="canChangeFieldValues" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest" />
+      <option name="METHOD_NAME" value="pubFieldTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -367,19 +405,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="UserTest.canConstructANewUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassExampleTest.someStringMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap006domainentities.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap007basicsofjavarevisited.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap006domainentities.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap006domainentities.examples.UserTest" />
-      <option name="METHOD_NAME" value="canConstructANewUser" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest" />
+      <option name="METHOD_NAME" value="someStringMethods" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -390,19 +428,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="UserTest.canSetPasswordAfterConstructed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassExampleTest.ternaryOperatorsExplored" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap006domainentities.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap007basicsofjavarevisited.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap006domainentities.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap006domainentities.examples.UserTest" />
-      <option name="METHOD_NAME" value="canSetPasswordAfterConstructed" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest" />
+      <option name="METHOD_NAME" value="ternaryOperatorsExplored" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -413,19 +451,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="UserTest.userHasDefaultUsernameAndPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClassExampleTest.voidubFieldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap006domainentities.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap007basicsofjavarevisited.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap006domainentities.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap006domainentities.examples.UserTest" />
-      <option name="METHOD_NAME" value="userHasDefaultUsernameAndPassword" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest" />
+      <option name="METHOD_NAME" value="voidubFieldTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -475,19 +513,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserTest.canConstructANewUser" />
-      <item itemvalue="JUnit.UserTest.userHasDefaultUsernameAndPassword" />
-      <item itemvalue="JUnit.UserTest.canChangeFieldValues" />
-      <item itemvalue="JUnit.UserTest.canSetPasswordAfterConstructed" />
-      <item itemvalue="JUnit.MyFirstTest.answerIs" />
+      <item itemvalue="JUnit.ClassExampleTest.voidubFieldTest" />
+      <item itemvalue="JUnit.ClassExampleTest.pubFieldTest" />
+      <item itemvalue="JUnit.ClassExampleTest.IntegerTypes" />
+      <item itemvalue="JUnit.ClassExampleTest.ternaryOperatorsExplored" />
+      <item itemvalue="JUnit.ClassExampleTest.someStringMethods" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyFirstTest.answerIs" />
-        <item itemvalue="JUnit.UserTest.canSetPasswordAfterConstructed" />
-        <item itemvalue="JUnit.UserTest.canChangeFieldValues" />
-        <item itemvalue="JUnit.UserTest.userHasDefaultUsernameAndPassword" />
-        <item itemvalue="JUnit.UserTest.canConstructANewUser" />
+        <item itemvalue="JUnit.ClassExampleTest.someStringMethods" />
+        <item itemvalue="JUnit.ClassExampleTest.ternaryOperatorsExplored" />
+        <item itemvalue="JUnit.ClassExampleTest.IntegerTypes" />
+        <item itemvalue="JUnit.ClassExampleTest.pubFieldTest" />
+        <item itemvalue="JUnit.ClassExampleTest.voidubFieldTest" />
       </list>
     </recent_temporary>
   </component>
@@ -505,39 +543,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestAppEnvironmentTest_canGetDomainAndPortStatically - 2018.09.30 at 13h 48m 40s.xml">
-      <configuration name="TestAppEnvironmentTest.canGetDomainAndPortStatically" configurationId="JUnit" />
+    <history-entry file="ClassExampleTest_pubFieldTest - 2018.10.14 at 15h 43m 01s.xml">
+      <configuration name="ClassExampleTest.pubFieldTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestAppEnvironmentTest - 2018.09.30 at 13h 53m 38s.xml">
-      <configuration name="TestAppEnvironmentTest" configurationId="JUnit" />
+    <history-entry file="ClassExampleTest_IntegerTypes - 2018.10.14 at 16h 02m 05s.xml">
+      <configuration name="ClassExampleTest.IntegerTypes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_canConstructANewUser - 2018.10.11 at 13h 34m 30s.xml">
-      <configuration name="UserTest.canConstructANewUser" configurationId="JUnit" />
+    <history-entry file="ClassExampleTest_IntegerTypes - 2018.10.14 at 16h 04m 02s.xml">
+      <configuration name="ClassExampleTest.IntegerTypes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_userHasDefaultUsernameAndPassword - 2018.10.11 at 13h 44m 29s.xml">
-      <configuration name="UserTest.userHasDefaultUsernameAndPassword" configurationId="JUnit" />
+    <history-entry file="ClassExampleTest_ternaryOperatorsExplored - 2018.10.14 at 16h 21m 36s.xml">
+      <configuration name="ClassExampleTest.ternaryOperatorsExplored" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_canChangeFieldValues - 2018.10.11 at 13h 47m 30s.xml">
-      <configuration name="UserTest.canChangeFieldValues" configurationId="JUnit" />
+    <history-entry file="ClassExampleTest_ternaryOperatorsExplored - 2018.10.14 at 16h 21m 53s.xml">
+      <configuration name="ClassExampleTest.ternaryOperatorsExplored" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_canSetPasswordAfterConstructed - 2018.10.11 at 22h 43m 35s.xml">
-      <configuration name="UserTest.canSetPasswordAfterConstructed" configurationId="JUnit" />
+    <history-entry file="ClassExampleTest_ternaryOperatorsExplored - 2018.10.14 at 16h 22m 52s.xml">
+      <configuration name="ClassExampleTest.ternaryOperatorsExplored" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_canSetPasswordAfterConstructed - 2018.10.11 at 22h 43m 55s.xml">
-      <configuration name="UserTest.canSetPasswordAfterConstructed" configurationId="JUnit" />
+    <history-entry file="ClassExampleTest_someStringMethods - 2018.10.14 at 16h 35m 27s.xml">
+      <configuration name="ClassExampleTest.someStringMethods" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_answerIs - 2018.10.13 at 15h 02m 30s.xml">
-      <configuration name="MyFirstTest.answerIs" configurationId="JUnit" />
+    <history-entry file="ClassExampleTest_someStringMethods - 2018.10.14 at 16h 35m 38s.xml">
+      <configuration name="ClassExampleTest.someStringMethods" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_answerIs - 2018.10.13 at 15h 02m 40s.xml">
-      <configuration name="MyFirstTest.answerIs" configurationId="JUnit" />
+    <history-entry file="ClassExampleTest_someStringMethods - 2018.10.14 at 16h 37m 42s.xml">
+      <configuration name="ClassExampleTest.someStringMethods" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest_answerIs - 2018.10.13 at 15h 02m 55s.xml">
-      <configuration name="MyFirstTest.answerIs" configurationId="JUnit" />
+    <history-entry file="ClassExampleTest_someStringMethods - 2018.10.14 at 16h 39m 11s.xml">
+      <configuration name="ClassExampleTest.someStringMethods" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="953" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -547,9 +586,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33733493" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33733493" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893157" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32893157" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893157" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
@@ -600,7 +639,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -793,19 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap004testswithotherclasses/examples/IntegerExamplesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -826,10 +852,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        <state relative-caret-position="385">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="71" column="49" selection-start-line="71" selection-start-column="49" selection-end-line="71" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
