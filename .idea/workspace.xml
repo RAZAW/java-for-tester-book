@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17859845-ed5b-4a72-9a8f-eb4b40ac9f27" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap008selectionsanddecisions/examples/TernaryOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -52,13 +41,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassExampleTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClassExampleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExampleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="71" column="49" selection-start-line="71" selection-start-column="49" selection-end-line="71" selection-end-column="49" />
+            <state relative-caret-position="235">
+              <caret line="62" column="37" lean-forward="true" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TernaryOperator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap008selectionsanddecisions/examples/TernaryOperator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,6 +153,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -175,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap008selectionsanddecisions/examples/TernaryOperator.java" />
       </list>
     </option>
   </component>
@@ -322,6 +328,15 @@
             </path>
             <path>
               <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafortesters" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -355,7 +370,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ClassExampleTest.someStringMethods">
+  <component name="RunManager" selected="JUnit.TernaryOperator.ternaryExercise">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -372,29 +387,6 @@
       <option name="PACKAGE_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples" />
       <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest" />
       <option name="METHOD_NAME" value="IntegerTypes" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ClassExampleTest.pubFieldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap007basicsofjavarevisited.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest" />
-      <option name="METHOD_NAME" value="pubFieldTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -451,19 +443,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ClassExampleTest.voidubFieldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TernaryOperator.moreTernary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap007basicsofjavarevisited.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap008selectionsanddecisions.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest" />
-      <option name="METHOD_NAME" value="voidubFieldTest" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap008selectionsanddecisions.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap008selectionsanddecisions.examples.TernaryOperator" />
+      <option name="METHOD_NAME" value="moreTernary" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TernaryOperator.ternaryExercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.chap008selectionsanddecisions.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap008selectionsanddecisions.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap008selectionsanddecisions.examples.TernaryOperator" />
+      <option name="METHOD_NAME" value="ternaryExercise" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -513,19 +528,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ClassExampleTest.voidubFieldTest" />
-      <item itemvalue="JUnit.ClassExampleTest.pubFieldTest" />
       <item itemvalue="JUnit.ClassExampleTest.IntegerTypes" />
       <item itemvalue="JUnit.ClassExampleTest.ternaryOperatorsExplored" />
       <item itemvalue="JUnit.ClassExampleTest.someStringMethods" />
+      <item itemvalue="JUnit.TernaryOperator.moreTernary" />
+      <item itemvalue="JUnit.TernaryOperator.ternaryExercise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TernaryOperator.ternaryExercise" />
+        <item itemvalue="JUnit.TernaryOperator.moreTernary" />
         <item itemvalue="JUnit.ClassExampleTest.someStringMethods" />
         <item itemvalue="JUnit.ClassExampleTest.ternaryOperatorsExplored" />
         <item itemvalue="JUnit.ClassExampleTest.IntegerTypes" />
-        <item itemvalue="JUnit.ClassExampleTest.pubFieldTest" />
-        <item itemvalue="JUnit.ClassExampleTest.voidubFieldTest" />
       </list>
     </recent_temporary>
   </component>
@@ -543,15 +558,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ClassExampleTest_pubFieldTest - 2018.10.14 at 15h 43m 01s.xml">
-      <configuration name="ClassExampleTest.pubFieldTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClassExampleTest_IntegerTypes - 2018.10.14 at 16h 02m 05s.xml">
-      <configuration name="ClassExampleTest.IntegerTypes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClassExampleTest_IntegerTypes - 2018.10.14 at 16h 04m 02s.xml">
-      <configuration name="ClassExampleTest.IntegerTypes" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ClassExampleTest_ternaryOperatorsExplored - 2018.10.14 at 16h 21m 36s.xml">
       <configuration name="ClassExampleTest.ternaryOperatorsExplored" configurationId="JUnit" />
     </history-entry>
@@ -572,6 +578,15 @@
     </history-entry>
     <history-entry file="ClassExampleTest_someStringMethods - 2018.10.14 at 16h 39m 11s.xml">
       <configuration name="ClassExampleTest.someStringMethods" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClassExampleTest_someStringMethods - 2018.10.14 at 16h 40m 35s.xml">
+      <configuration name="ClassExampleTest.someStringMethods" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TernaryOperator_moreTernary - 2018.10.15 at 13h 01m 30s.xml">
+      <configuration name="TernaryOperator.moreTernary" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TernaryOperator_ternaryExercise - 2018.10.15 at 13h 06m 36s.xml">
+      <configuration name="TernaryOperator.ternaryExercise" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -633,6 +648,32 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -886,12 +927,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap007basicsofjavarevisited/examples/ClassExampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="71" column="49" selection-start-line="71" selection-start-column="49" selection-end-line="71" selection-end-column="49" />
+        <state relative-caret-position="235">
+          <caret line="62" column="37" lean-forward="true" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap008selectionsanddecisions/examples/TernaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
           </folding>
         </state>
       </provider>
