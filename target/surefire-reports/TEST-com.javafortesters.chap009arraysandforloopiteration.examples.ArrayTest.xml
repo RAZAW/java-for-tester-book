@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" time="0" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" time="0.012" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib"/>
@@ -65,8 +65,12 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" name="canSubtractTwoMinusTwo" time="0"/>
-  <testcase classname="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" name="canMultiply2By2" time="0"/>
-  <testcase classname="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" name="canDivide2By4" time="0"/>
-  <testcase classname="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" name="canAddTwoPlusTwo" time="0"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="createTriangle2dArray" time="0.008"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="sortDifferentCaseArray" time="0"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="sortOutNumbers" time="0.001"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="createAnArrayOf100Users" time="0.002"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="createAnArrayOfUsers" time="0.001"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="traditionalForLoop" time="0"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="sortTheArray" time="0"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="arrayWorkdayTest" time="0"/>
 </testsuite>
