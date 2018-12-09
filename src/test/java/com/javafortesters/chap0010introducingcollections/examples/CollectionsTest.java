@@ -2,6 +2,7 @@ package com.javafortesters.chap0010introducingcollections.examples;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -61,10 +62,29 @@ public class CollectionsTest {
         assertEquals("Friday is at index 4", 4, count);
 
         int countFor;
-        for (countFor=0; !listDays.get(countFor).equals("Friday"); countFor++) {
-            }
-            assertEquals("Friday is st position 4", 4, countFor);
+        for (countFor = 0; !listDays.get(countFor).equals("Friday"); countFor++) {
         }
+        assertEquals("Friday is st position 4", 4, countFor);
     }
+
+    @Test
+    public void familyCollection() {
+
+        String[] razas = {"Waqas", "Mahvish", "Hadi", "Zaynmah"};
+        assertEquals(4, razas.length);
+        List<String> razasList = Arrays.asList(razas);
+        int counter = 0;
+        for (String rl : razasList) {
+            if (rl.equals("Hadi")) {
+                break;
+            }
+            counter++;
+        }
+        assertEquals("Hadi", razasList.get(counter));
+        assertEquals(2, counter);
+
+
+    }
+}
 
 

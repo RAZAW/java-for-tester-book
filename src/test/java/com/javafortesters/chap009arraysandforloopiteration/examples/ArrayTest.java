@@ -4,9 +4,11 @@ import com.javafortesters.domainentities.User;
 import org.junit.Test;
 
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 public class ArrayTest {
 
@@ -138,8 +140,81 @@ public class ArrayTest {
                     System.out.print(inner + ",");
                 }
             }
+
             System.out.println("");
         }
+    }
+
+    @Test
+    public void collectoinInterface() {
+        Collection workdays;
+        workdays = new ArrayList();
+        workdays.add("Monday");
+        workdays.add("Tuesday");
+        workdays.add("Wednesday");
+        workdays.add("Thursday");
+        workdays.add("Friday");
+        assertEquals(5, workdays.size());
+
+        Collection<String> daysOfWeek = new <String>ArrayList();
+        Collection<Integer> ages = new ArrayList<>();
+        assertEquals(0, daysOfWeek.size());
+        assertEquals(0, ages.size());
+
+        daysOfWeek.addAll(workdays);
+        assertEquals(daysOfWeek.size(), workdays.size());
+        assertTrue(daysOfWeek.containsAll(workdays));
+        Collection<String> weekendDays = new <String>ArrayList();
+        weekendDays.add("Saturday");
+        weekendDays.add("Funday");
+        assertEquals(2, weekendDays.size());
+        assertTrue(weekendDays.contains("Saturday"));
+        weekendDays.remove("Funday");
+        assertFalse(weekendDays.contains("Funday"));
+        weekendDays.add("Sunday");
+        assertEquals(2, weekendDays.size());
+        assertTrue("Bug fixed, Sunday in collection now", weekendDays.contains("Sunday"));
+
+        daysOfWeek.addAll(weekendDays);
+        assertTrue(daysOfWeek.containsAll(weekendDays));
+
+        for (String dayOfWeek : daysOfWeek) {
+            System.out.println(dayOfWeek);
+        }
+
+        assertEquals(7, daysOfWeek.size());
+        daysOfWeek.clear();
+        assertEquals(0, daysOfWeek.size());
+        assertTrue(daysOfWeek.isEmpty());
+    }
+
+    @Test
+    public void collectionOfUsers() {
+        Collection<User> userCollection = new <User>ArrayList();
+        assertEquals(0, userCollection.size());
+        assertTrue(userCollection.isEmpty());
+        User firstUser = new User("waqas", "gold");
+        User secondUser = new User("mahvish", "silver");
+        userCollection.add(firstUser);
+        userCollection.add(secondUser);
+        assertEquals(2, userCollection.size());
+        assertFalse(userCollection.isEmpty());
+
+        Collection<User> anotherUserCollection = new <User>ArrayList();
+        User thirdUser = new User("hadi", "platinum");
+        User fourthUser = new User("zaynah", "diamond");
+        anotherUserCollection.add(thirdUser);
+        anotherUserCollection.add(fourthUser);
+        userCollection.addAll(anotherUserCollection);
+        assertEquals(4, userCollection.size());
+        assertTrue(userCollection.containsAll(anotherUserCollection));
+        anotherUserCollection.removeAll(userCollection);
+        assertEquals(0, anotherUserCollection.size());
+        userCollection.clear();
+        assertTrue(userCollection.isEmpty());
+
+
+
     }
 
 }
