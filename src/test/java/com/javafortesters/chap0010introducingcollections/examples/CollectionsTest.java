@@ -7,6 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 public class CollectionsTest {
 
@@ -82,6 +83,37 @@ public class CollectionsTest {
         }
         assertEquals("Hadi", razasList.get(counter));
         assertEquals(2, counter);
+    }
+
+    @Test
+    public void carsCollection() {
+        String[] cars = {"Bentley", "Mercedes", "BMW"};
+        assertEquals(3, cars.length);
+        List<String> carsList = Arrays.asList(cars);
+        int county = 0;
+        for (String car : carsList) {
+            if (car.equalsIgnoreCase("mercedes")) ;
+            break;
+        }
+        county++;
+        assertTrue(county == 1);
+        assertEquals("Mercedes", carsList.get(1));
+
+    }
+
+    @Test
+    public void planetsAsList() {
+        List<String> planets = new <String>ArrayList();
+        assertTrue(planets.isEmpty());
+        assertTrue(planets.size()==0);
+        planets.add(0, "Mercury");
+        planets.add(1, "Venus");
+        planets.add(2, "Earth");
+        planets.add(3, "Mars");
+        assertEquals(4, planets.size());
+        assertEquals("Earth", planets.get(2));
+        planets.remove(2);
+        assertEquals(3, planets.size());
 
 
     }

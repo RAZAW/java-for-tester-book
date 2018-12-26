@@ -212,9 +212,6 @@ public class ArrayTest {
         assertEquals(0, anotherUserCollection.size());
         userCollection.clear();
         assertTrue(userCollection.isEmpty());
-
-
-
     }
 
 }
