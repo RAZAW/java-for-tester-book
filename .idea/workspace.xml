@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17859845-ed5b-4a72-9a8f-eb4b40ac9f27" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/TestList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/CollectionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/CollectionsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap009arraysandforloopiteration/examples/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap009arraysandforloopiteration/examples/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap009arraysandforloopiteration/examples/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap009arraysandforloopiteration/examples/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/TestList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/TestList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,11 +57,12 @@
       <file leaf-file-name="TestList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/TestList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="65" column="44" selection-start-line="65" selection-start-column="44" selection-end-line="65" selection-end-column="44" />
+            <state relative-caret-position="248">
+              <caret line="127" column="57" selection-start-line="127" selection-start-column="57" selection-end-line="127" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#394#402#0" expanded="true" />
+                <element signature="e#3169#3183#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -345,57 +342,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestList.listOfUsers">
+  <component name="RunManager" selected="JUnit.TestList.mapOfUsers">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CollectionsTest.carsCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap0010introducingcollections.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap0010introducingcollections.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap0010introducingcollections.examples.CollectionsTest" />
-      <option name="METHOD_NAME" value="carsCollection" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="CollectionsTest.planetsAsList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap0010introducingcollections.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap0010introducingcollections.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap0010introducingcollections.examples.CollectionsTest" />
-      <option name="METHOD_NAME" value="planetsAsList" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestList.addAnElementAtASpecificIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestList.hashExampleMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
@@ -407,30 +358,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.javafortesters.chap0010introducingcollections.examples" />
       <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap0010introducingcollections.examples.TestList" />
-      <option name="METHOD_NAME" value="addAnElementAtASpecificIndex" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestList.getElementAtAnIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap0010introducingcollections.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap0010introducingcollections.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap0010introducingcollections.examples.TestList" />
-      <option name="METHOD_NAME" value="getElementAtAnIndex" />
+      <option name="METHOD_NAME" value="hashExampleMethod" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -454,6 +382,75 @@
       <option name="PACKAGE_NAME" value="com.javafortesters.chap0010introducingcollections.examples" />
       <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap0010introducingcollections.examples.TestList" />
       <option name="METHOD_NAME" value="listOfUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestList.mapOfUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.chap0010introducingcollections.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap0010introducingcollections.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap0010introducingcollections.examples.TestList" />
+      <option name="METHOD_NAME" value="mapOfUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestList.mapPlayMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.chap0010introducingcollections.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap0010introducingcollections.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap0010introducingcollections.examples.TestList" />
+      <option name="METHOD_NAME" value="mapPlayMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestList.setOfUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.chap0010introducingcollections.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap0010introducingcollections.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap0010introducingcollections.examples.TestList" />
+      <option name="METHOD_NAME" value="setOfUsers" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -503,19 +500,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestList.getElementAtAnIndex" />
-      <item itemvalue="JUnit.TestList.addAnElementAtASpecificIndex" />
-      <item itemvalue="JUnit.CollectionsTest.carsCollection" />
-      <item itemvalue="JUnit.CollectionsTest.planetsAsList" />
       <item itemvalue="JUnit.TestList.listOfUsers" />
+      <item itemvalue="JUnit.TestList.hashExampleMethod" />
+      <item itemvalue="JUnit.TestList.setOfUsers" />
+      <item itemvalue="JUnit.TestList.mapPlayMethod" />
+      <item itemvalue="JUnit.TestList.mapOfUsers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestList.mapOfUsers" />
+        <item itemvalue="JUnit.TestList.mapPlayMethod" />
+        <item itemvalue="JUnit.TestList.setOfUsers" />
+        <item itemvalue="JUnit.TestList.hashExampleMethod" />
         <item itemvalue="JUnit.TestList.listOfUsers" />
-        <item itemvalue="JUnit.CollectionsTest.planetsAsList" />
-        <item itemvalue="JUnit.CollectionsTest.carsCollection" />
-        <item itemvalue="JUnit.TestList.addAnElementAtASpecificIndex" />
-        <item itemvalue="JUnit.TestList.getElementAtAnIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -533,35 +530,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CollectionsTest_carsCollection - 2018.12.26 at 20h 37m 54s.xml">
-      <configuration name="CollectionsTest.carsCollection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionsTest_planetsAsList - 2018.12.26 at 20h 41m 01s.xml">
-      <configuration name="CollectionsTest.planetsAsList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionsTest_planetsAsList - 2018.12.26 at 20h 43m 43s.xml">
-      <configuration name="CollectionsTest.planetsAsList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionsTest_planetsAsList - 2018.12.26 at 20h 44m 12s.xml">
-      <configuration name="CollectionsTest.planetsAsList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestList_listOfUsers - 2018.12.26 at 21h 18m 38s.xml">
-      <configuration name="TestList.listOfUsers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestList_listOfUsers - 2018.12.26 at 21h 19m 01s.xml">
-      <configuration name="TestList.listOfUsers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestList_listOfUsers - 2018.12.26 at 21h 20m 25s.xml">
-      <configuration name="TestList.listOfUsers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestList_listOfUsers - 2018.12.26 at 21h 21m 05s.xml">
-      <configuration name="TestList.listOfUsers" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestList_listOfUsers - 2018.12.26 at 21h 21m 37s.xml">
       <configuration name="TestList.listOfUsers" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestList_listOfUsers - 2018.12.26 at 21h 22m 35s.xml">
       <configuration name="TestList.listOfUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestList_listOfUsers - 2018.12.26 at 21h 23m 39s.xml">
+      <configuration name="TestList.listOfUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestList_hashExampleMethod - 2018.12.28 at 19h 38m 26s.xml">
+      <configuration name="TestList.hashExampleMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestList_hashExampleMethod - 2018.12.28 at 19h 38m 33s.xml">
+      <configuration name="TestList.hashExampleMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestList_setOfUsers - 2018.12.28 at 19h 44m 29s.xml">
+      <configuration name="TestList.setOfUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestList_mapPlayMethod - 2018.12.28 at 19h 59m 00s.xml">
+      <configuration name="TestList.mapPlayMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestList_mapPlayMethod - 2018.12.28 at 20h 03m 41s.xml">
+      <configuration name="TestList.mapPlayMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestList_mapPlayMethod - 2018.12.28 at 20h 04m 43s.xml">
+      <configuration name="TestList.mapPlayMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestList_mapPlayMethod - 2018.12.28 at 20h 09m 54s.xml">
+      <configuration name="TestList.mapPlayMethod" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -655,7 +652,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="33" />
+      <option name="time" value="35" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1075,11 +1072,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/TestList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="65" column="44" selection-start-line="65" selection-start-column="44" selection-end-line="65" selection-end-column="44" />
+        <state relative-caret-position="248">
+          <caret line="127" column="57" selection-start-line="127" selection-start-column="57" selection-end-line="127" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#394#402#0" expanded="true" />
+            <element signature="e#3169#3183#0" expanded="true" />
           </folding>
         </state>
       </provider>
