@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" time="0.012" errors="0" skipped="0">
+<testsuite tests="10" failures="0" name="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" time="0.018" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="10.14"/>
+    <property name="os.version" value="10.14.2"/>
     <property name="library.jansi.path" value="/usr/local/apache-maven/lib/jansi-native"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="user.home" value="/Users/waqasraza"/>
@@ -46,11 +46,10 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -DCollectionsTest"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
-    <property name="CollectionsTest" value="true"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.version" value="1.8.0_161"/>
     <property name="java.ext.dirs" value="/Users/waqasraza/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
@@ -65,12 +64,14 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="createTriangle2dArray" time="0.008"/>
-  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="sortDifferentCaseArray" time="0"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="collectoinInterface" time="0.001"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="createTriangle2dArray" time="0.012"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="sortDifferentCaseArray" time="0.001"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="collectionOfUsers" time="0"/>
   <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="sortOutNumbers" time="0.001"/>
   <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="createAnArrayOf100Users" time="0.002"/>
-  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="createAnArrayOfUsers" time="0.001"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="createAnArrayOfUsers" time="0"/>
   <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="traditionalForLoop" time="0"/>
   <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="sortTheArray" time="0"/>
-  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="arrayWorkdayTest" time="0"/>
+  <testcase classname="com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest" name="arrayWorkdayTest" time="0.001"/>
 </testsuite>

@@ -2,9 +2,7 @@ package com.javafortesters.chap0010introducingcollections.examples;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
@@ -116,6 +114,71 @@ public class CollectionsTest {
         assertEquals(3, planets.size());
 
 
+    }
+
+    @Test
+    public void hashMapTest() {
+        Map<Integer, String> ages = new HashMap<>();
+        ages.put(32, "Waqas");
+        ages.put(26, "Mahvish");
+        ages.put(5, "Hadi");
+        ages.put(1, "Zaynah");
+
+        assertEquals(4, ages.size());
+        assertEquals("Waqas", ages.get(32));
+        assertTrue(ages.containsValue("Mahvish"));
+        assertTrue(!ages.isEmpty());
+
+    }
+
+    @Test
+    public void setTest() {
+        Set weekdays = new HashSet();
+        weekdays.add("Monday");
+        weekdays.add("Tuesday");
+        weekdays.add("Wednesday");
+        weekdays.add("Thursday");
+        weekdays.add("Friday");
+
+        assertEquals(5, weekdays.size());
+        assertTrue(weekdays.contains("Wednesday"));
+    }
+
+    @Test
+    public void listTest() {
+        List<String> family = new ArrayList<String>();
+        family.add(0, "Dad");
+        family.add(1, "Mum");
+        assertTrue(!family.isEmpty());
+        assertEquals(2, family.size());
+        assertEquals("Dad", family.get(0));
+
+    }
+
+    @Test
+    public void collectionTest() {
+        Collection<String> friends = new ArrayList<>();
+        friends.add("Haider");
+        friends.add("Usman");
+        friends.add("Omair");
+        friends.add("Shoaib");
+        friends.add("Abdul");
+
+        assertTrue(!friends.isEmpty());
+        assertEquals(5, friends.size());
+        assertEquals(true, friends.contains("Omair"));
+    }
+
+    @Test
+    public void canFillAList() {
+        List<String> strings= new ArrayList<>();
+        fillList(strings, 40);
+    }
+
+    private void fillList(List<String> strings, int howmany) {
+        for (int x=0; x<howmany; x++) {
+            strings.add("String"+x);
+        }
     }
 }
 

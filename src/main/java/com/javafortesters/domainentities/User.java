@@ -1,18 +1,20 @@
 package com.javafortesters.domainentities;
 
+import com.javafortesters.domainentities.interim.exceptions.custom.InvalidPassword;
+import com.javafortesters.domainobject.TestAppEnv;
+
 public class User {
 
     private String username;
     private String password;
 
-    public User() {
+    public User(){
         this("username", "password");
     }
 
     public User(String username, String password) {
         this.username = username;
-        //this.password = password;
-        setPassword(password);
+        this.password = password;
     }
 
     public String getUsername() {
@@ -24,9 +26,10 @@ public class User {
     }
 
     public void setPassword(String password) {
-        if (password.length() < 7) {
-            throw new IllegalArgumentException("Password must be > 6 chars");
-        }
         this.password = password;
+    }
+
+    public String getPermission() {
+        return "Normal";
     }
 }

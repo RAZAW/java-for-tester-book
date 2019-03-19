@@ -1,0 +1,9 @@
+com/javafortesters/domainentities/interim/User.class
+com/javafortesters/domainentities/ReadOnly.class
+com/javafortesters/domainentities/interim/exceptions/custom/InvalidPassword.class
+com/javafortesters/domainobject/TestAppEnv.class
+com/javafortesters/domainentities/interim/exceptions/User.class
+com/javafortesters/domainentities/interim/exceptions/custom/User.class
+com/javafortesters/domainentities/AdminUser.class
+com/javafortesters/domainentities/User.class
+com/javafortesters/domainentities/EnvironmentUser.class

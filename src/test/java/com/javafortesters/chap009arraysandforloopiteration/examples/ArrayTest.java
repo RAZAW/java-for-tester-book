@@ -100,11 +100,15 @@ public class ArrayTest {
 
         Arrays.sort(workdays);
 
+        //System.out.println(workdays);
+        System.out.println(Arrays.toString(workdays));
+
         assertEquals("Friday", workdays[0]);
         assertEquals("Tuesday", workdays[1]);
         assertEquals("Wednesday", workdays[2]);
         assertEquals("monday", workdays[3]);
         assertEquals("thursday", workdays[4]);
+
     }
 
     @Test
@@ -113,6 +117,8 @@ public class ArrayTest {
         assertEquals(5, numbers.length);
         assertEquals(5, numbers[1]);
         Arrays.sort(numbers);
+        System.out.println(numbers);
+        System.out.println("The sort array is : %s" + Arrays.toString(numbers));
         assertEquals(2, numbers[1]);
     }
 
