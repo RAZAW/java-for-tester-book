@@ -8,6 +8,7 @@ import org.junit.rules.ExpectedException;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
+import static org.junit.Assert.*;
 
 import static org.hamcrest.CoreMatchers.containsString;
 
@@ -61,4 +62,28 @@ public class JunitExplorationTest {
     public void runBeforeEveryTestMethod() {
         System.out.println("@Before each method");
     }
+
+    @Test
+    public void allAssertsMethod() {
+
+        int a = 5;
+        int b = 4;
+
+        int c [] = new int[] {1, 2, 3, 4, 5};
+        int d [] = new int[] {1, 2, 3, 4, 5};
+
+        String age = null;
+
+        assertEquals("5 + 4 = 9", 9, a + b);
+        assertFalse(a + b != 9);
+        assertTrue(a + b == 9);
+        assertArrayEquals(c, d);
+        assertNotNull("check actual is not null", a);
+        assertNotSame("check actual and expected are not same", a, b);
+        assertNull("check actual is null", age);
+        assertSame("check expected and actual are same", a, b + 1);
+
+
+    }
+
 }
