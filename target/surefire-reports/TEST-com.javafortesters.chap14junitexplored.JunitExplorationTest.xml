@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" time="0" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="com.javafortesters.chap14junitexplored.JunitExplorationTest" time="0.011" errors="0" skipped="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib"/>
@@ -64,8 +64,11 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" name="canSubtractTwoMinusTwo" time="0"/>
-  <testcase classname="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" name="canMultiply2By2" time="0"/>
-  <testcase classname="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" name="canDivide2By4" time="0"/>
-  <testcase classname="com.javafortesters.chap003myfirsttest.examples.MyFirstTest" name="canAddTwoPlusTwo" time="0"/>
+  <testcase classname="com.javafortesters.chap14junitexplored.JunitExplorationTest" name="invalidPasswordThrownBecauseOfLengthWithMatcher" time="0.01"/>
+  <testcase classname="com.javafortesters.chap14junitexplored.JunitExplorationTest" name="invalidPasswordThrownBecauseOfLength" time="0"/>
+  <testcase classname="com.javafortesters.chap14junitexplored.JunitExplorationTest" name="arrayTechnicalTest" time="0">
+    <skipped message="This method is not part of this class"/>
+  </testcase>
+  <testcase classname="com.javafortesters.chap14junitexplored.JunitExplorationTest" name="invalidPasswordThrown" time="0"/>
+  <testcase classname="com.javafortesters.chap14junitexplored.JunitExplorationTest" name="allAssertsMethod" time="0.001"/>
 </testsuite>

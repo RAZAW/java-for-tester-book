@@ -7,6 +7,30 @@
     <list default="true" id="17859845-ed5b-4a72-9a8f-eb4b40ac9f27" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.CollectionsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.CollectionsTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.TestList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.TestList.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap003myfirsttest.examples.MyFirstTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap003myfirsttest.examples.MyFirstTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap006domainentities.examples.UserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap006domainentities.examples.UserTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap008selectionsanddecisions.examples.TernaryOperatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap008selectionsanddecisions.examples.TernaryOperatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap0010introducingcollections.examples.CollectionsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap0010introducingcollections.examples.CollectionsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap0010introducingcollections.examples.TestList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap0010introducingcollections.examples.TestList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap003myfirsttest.examples.MyFirstTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap003myfirsttest.examples.MyFirstTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap006domainentities.examples.UserTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap006domainentities.examples.UserTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap14junitexplored/JunitExplorationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap14junitexplored/JunitExplorationTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,7 +51,7 @@
       <file leaf-file-name="ArrayTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap009arraysandforloopiteration/examples/ArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="150">
               <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -57,7 +81,7 @@
       <file leaf-file-name="TestAppEnv.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainobject/TestAppEnv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="150">
               <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
               <folding>
                 <element signature="e#260#261#0" expanded="true" />
@@ -70,7 +94,7 @@
       <file leaf-file-name="TestList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/TestList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
+            <state relative-caret-position="1335">
               <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -94,7 +118,7 @@
       <file leaf-file-name="ExceptionTestClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap13moreaboutexceptions/examples/ExceptionTestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
+            <state relative-caret-position="465">
               <caret line="37" column="70" selection-start-line="37" selection-start-column="70" selection-end-line="37" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -106,14 +130,10 @@
       <file leaf-file-name="JunitExplorationTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="76" column="37" lean-forward="true" selection-start-line="76" selection-start-column="37" selection-end-line="76" selection-end-column="37" />
+            <state relative-caret-position="467">
+              <caret line="107" column="45" lean-forward="true" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1538#1539#0" expanded="true" />
-                <element signature="e#1595#1596#0" expanded="true" />
-                <element signature="e#1653#1654#0" expanded="true" />
-                <element signature="e#1710#1711#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -207,10 +227,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="2268" />
-    <option name="height" value="967" />
+    <option name="height" value="961" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,7 +238,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -355,7 +375,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -386,7 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JunitExplorationTest.allAssertsMethod">
+  <component name="RunManager" selected="JUnit.JunitExplorationTest.assertThatMethod">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -413,6 +433,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="JunitExplorationTest.assertThatMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.chap14junitexplored.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap14junitexplored" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap14junitexplored.JunitExplorationTest" />
+      <option name="METHOD_NAME" value="assertThatMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="JunitExploration.arrayTechnicalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
@@ -426,29 +469,6 @@
       <option name="PACKAGE_NAME" value="com.javafortesters.chap14junitexplored" />
       <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap14junitexplored.JunitExploration" />
       <option name="METHOD_NAME" value="arrayTechnicalTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="JunitExploration.expectInvalidPasswordException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap14junitexplored.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="chap14junitexplored.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.examples.JunitExploration" />
-      <option name="METHOD_NAME" value="expectInvalidPasswordException" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -567,19 +587,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.JunitExploration.expectInvalidPasswordException" />
       <item itemvalue="JUnit.JunitExploration.invalidPasswordThrown" />
       <item itemvalue="JUnit.JunitExploration.invalidPasswordThrownBecauseOfLength" />
       <item itemvalue="JUnit.JunitExploration.arrayTechnicalTest" />
       <item itemvalue="JUnit.JunitExplorationTest.allAssertsMethod" />
+      <item itemvalue="JUnit.JunitExplorationTest.assertThatMethod" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JunitExplorationTest.assertThatMethod" />
         <item itemvalue="JUnit.JunitExplorationTest.allAssertsMethod" />
         <item itemvalue="JUnit.JunitExploration.arrayTechnicalTest" />
         <item itemvalue="JUnit.JunitExploration.invalidPasswordThrownBecauseOfLength" />
         <item itemvalue="JUnit.JunitExploration.invalidPasswordThrown" />
-        <item itemvalue="JUnit.JunitExploration.expectInvalidPasswordException" />
       </list>
     </recent_temporary>
   </component>
@@ -597,54 +617,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JunitExploration_invalidPasswordThrownBecauseOfLength - 2019.03.16 at 11h 52m 29s.xml">
-      <configuration name="JunitExploration.invalidPasswordThrownBecauseOfLength" configurationId="JUnit" />
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 26m 17s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitExploration_invalidPasswordThrownBecauseOfLength - 2019.03.16 at 11h 53m 02s.xml">
-      <configuration name="JunitExploration.invalidPasswordThrownBecauseOfLength" configurationId="JUnit" />
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 26m 32s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitExploration_arrayTechnicalTest - 2019.03.18 at 12h 03m 57s.xml">
-      <configuration name="JunitExploration.arrayTechnicalTest" configurationId="JUnit" />
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 26m 37s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitExploration_arrayTechnicalTest - 2019.03.18 at 12h 04m 57s.xml">
-      <configuration name="JunitExploration.arrayTechnicalTest" configurationId="JUnit" />
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 27m 15s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitExploration_arrayTechnicalTest - 2019.03.18 at 12h 05m 42s.xml">
-      <configuration name="JunitExploration.arrayTechnicalTest" configurationId="JUnit" />
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 28m 00s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitExploration_arrayTechnicalTest - 2019.03.18 at 12h 07m 05s.xml">
-      <configuration name="JunitExploration.arrayTechnicalTest" configurationId="JUnit" />
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 28m 43s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitExploration_arrayTechnicalTest - 2019.03.18 at 12h 08m 08s.xml">
-      <configuration name="JunitExploration.arrayTechnicalTest" configurationId="JUnit" />
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 29m 34s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitExploration_arrayTechnicalTest - 2019.03.18 at 12h 08m 59s.xml">
-      <configuration name="JunitExploration.arrayTechnicalTest" configurationId="JUnit" />
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 30m 14s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitExploration_arrayTechnicalTest - 2019.03.18 at 12h 13m 55s.xml">
-      <configuration name="JunitExploration.arrayTechnicalTest" configurationId="JUnit" />
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 31m 22s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitExploration_arrayTechnicalTest - 2019.03.19 at 09h 55m 05s.xml">
-      <configuration name="JunitExploration.arrayTechnicalTest" configurationId="JUnit" />
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 31m 33s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2268" height="967" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="961" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49702382" weight="0.35657144" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50238097" side_tool="true" visible="true" weight="0.33563218" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50305253" side_tool="true" visible="true" weight="0.3353151" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49761903" weight="0.33371428" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.3353151" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32893157" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32814372" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16049382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16239317" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24969475" />
       <window_info id="UI Designer" order="4" />
@@ -658,7 +679,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49702382" weight="0.35657144" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -975,7 +995,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainobject/TestAppEnv.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="150">
           <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
           <folding>
             <element signature="e#260#261#0" expanded="true" />
@@ -986,7 +1006,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap009arraysandforloopiteration/examples/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="150">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -996,7 +1016,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/TestList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
+        <state relative-caret-position="1335">
           <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1009,7 +1029,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap13moreaboutexceptions/examples/ExceptionTestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
+        <state relative-caret-position="465">
           <caret line="37" column="70" selection-start-line="37" selection-start-column="70" selection-end-line="37" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1054,14 +1074,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="76" column="37" lean-forward="true" selection-start-line="76" selection-start-column="37" selection-end-line="76" selection-end-column="37" />
+        <state relative-caret-position="467">
+          <caret line="107" column="45" lean-forward="true" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1538#1539#0" expanded="true" />
-            <element signature="e#1595#1596#0" expanded="true" />
-            <element signature="e#1653#1654#0" expanded="true" />
-            <element signature="e#1710#1711#0" expanded="true" />
           </folding>
         </state>
       </provider>

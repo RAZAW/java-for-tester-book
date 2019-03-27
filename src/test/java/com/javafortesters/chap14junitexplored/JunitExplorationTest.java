@@ -8,9 +8,9 @@ import org.junit.rules.ExpectedException;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
-import static org.junit.Assert.*;
 
-import static org.hamcrest.CoreMatchers.containsString;
+import static org.hamcrest.CoreMatchers.*;
+import static org.junit.Assert.*;
 
 public class JunitExplorationTest {
 
@@ -83,6 +83,29 @@ public class JunitExplorationTest {
         assertNull("check actual is null", age);
         assertSame("check expected and actual are same", a, b + 1);
 
+
+    }
+
+    @Test
+    public void assertThatMethod() {
+
+        int a = 5;
+        int b = 4;
+
+        int c [] = new int[] {1, 2, 3, 4, 5};
+        int d [] = new int[] {1, 2, 3, 4, 5};
+
+        String age = null;
+        String city = "High Wycombe";
+
+        assertThat(a + b, equalTo(9));
+        assertThat(a + b, not(10));
+        assertThat(a + b, is(9));
+        assertThat(c, is(equalTo(d)));
+        assertThat(b, notNullValue());
+        assertThat(a, is(not(equalTo(b))));
+        assertThat(age, nullValue());
+        assertThat(city, startsWith("High"));
 
     }
 
