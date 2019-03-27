@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17859845-ed5b-4a72-9a8f-eb4b40ac9f27" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.CollectionsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.CollectionsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.TestList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.TestList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap003myfirsttest.examples.MyFirstTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap003myfirsttest.examples.MyFirstTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap006domainentities.examples.UserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap006domainentities.examples.UserTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap008selectionsanddecisions.examples.TernaryOperatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap008selectionsanddecisions.examples.TernaryOperatorTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap0010introducingcollections.examples.CollectionsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap0010introducingcollections.examples.CollectionsTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap0010introducingcollections.examples.TestList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap0010introducingcollections.examples.TestList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap003myfirsttest.examples.MyFirstTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap003myfirsttest.examples.MyFirstTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap006domainentities.examples.UserTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap006domainentities.examples.UserTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap14junitexplored/JunitExplorationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap14junitexplored/JunitExplorationTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -130,8 +105,8 @@
       <file leaf-file-name="JunitExplorationTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="107" column="45" lean-forward="true" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
+            <state relative-caret-position="452">
+              <caret line="113" column="35" selection-start-line="113" selection-start-column="35" selection-end-line="113" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -617,9 +592,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 26m 17s.xml">
-      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 26m 32s.xml">
       <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
@@ -645,6 +617,9 @@
       <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
     <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 31m 33s.xml">
+      <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JunitExplorationTest_assertThatMethod - 2019.03.27 at 22h 36m 13s.xml">
       <configuration name="JunitExplorationTest.assertThatMethod" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -1074,8 +1049,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="107" column="45" lean-forward="true" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
+        <state relative-caret-position="452">
+          <caret line="113" column="35" selection-start-line="113" selection-start-column="35" selection-end-line="113" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
