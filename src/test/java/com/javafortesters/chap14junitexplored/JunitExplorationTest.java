@@ -111,7 +111,20 @@ public class JunitExplorationTest {
 
     @Test
     public void hamcrestMatchersMethod() {
-        //to complete exercise here
-    }
+        //fail("this method will fail");
+        int num = 33;
+        int num2 = 26;
+
+        String age = null;
+        String name = "Waqas Raza";
+        boolean happy = true;
+
+        assertThat("example of is matcher", num, is(not(equalTo(num2))));
+        assertThat("example of contains string", name, containsString("Raza"));
+        assertThat("example of ends with", name, endsWith("Raza"));
+        assertThat("example of starts with", name, startsWith("W"));
+        assertThat("example of nullValue", age, is(nullValue()));
+        assertThat("example of is", happy, is(true));
+        }
 
 }
