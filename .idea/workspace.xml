@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17859845-ed5b-4a72-9a8f-eb4b40ac9f27" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/StringRevisitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/exercises/StringClassExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.CollectionsTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.CollectionsTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.TestList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap0010introducingcollections.examples.TestList.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap003myfirsttest.examples.MyFirstTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap003myfirsttest.examples.MyFirstTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap006domainentities.examples.UserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap006domainentities.examples.UserTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap008selectionsanddecisions.examples.TernaryOperatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap008selectionsanddecisions.examples.TernaryOperatorTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap14junitexplored.JunitExplorationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.javafortesters.chap14junitexplored.JunitExplorationTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap006domainentities.examples.UserTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap006domainentities.examples.UserTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap007basicsofjavarevisited.examples.ClassExampleTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap008selectionsanddecisions.examples.TernaryOperatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap008selectionsanddecisions.examples.TernaryOperatorTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap009arraysandforloopiteration.examples.ArrayTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap011exceptions.examples.ExceptionsExampleTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap12introducinginheritance.examples.EmptyUserTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap14junitexplored.JunitExplorationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.javafortesters.chap14junitexplored.JunitExplorationTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap14junitexplored/JunitExplorationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap14junitexplored/JunitExplorationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/StringRevisitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/examples/StringRevisitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javafortesters/chap15stringsrevisited/StringRevisitTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,18 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap009arraysandforloopiteration/examples/ArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainentities/User.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,7 +47,7 @@
       <file leaf-file-name="TestList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/TestList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
+            <state relative-caret-position="1440">
               <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -103,7 +68,7 @@
       <file leaf-file-name="ExceptionTestClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap13moreaboutexceptions/examples/ExceptionTestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="555">
               <caret line="37" column="70" selection-start-line="37" selection-start-column="70" selection-end-line="37" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,7 +80,7 @@
       <file leaf-file-name="JunitExplorationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
+            <state relative-caret-position="1635">
               <caret line="113" column="10" selection-start-line="113" selection-start-column="10" selection-end-line="113" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -125,10 +90,22 @@
         </entry>
       </file>
       <file leaf-file-name="StringRevisitTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/StringRevisitTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/examples/StringRevisitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+            <state relative-caret-position="432">
+              <caret line="119" column="52" lean-forward="true" selection-start-line="119" selection-start-column="52" selection-end-line="119" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringClassExercise.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/exercises/StringClassExercise.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -216,6 +193,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/StringRevisit.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/StringRevisitTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/exercises/StringClassExercise.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/examples/StringRevisitTest.java" />
       </list>
     </option>
   </component>
@@ -377,15 +356,35 @@
             </path>
             <path>
               <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafortesters" type="462c0819:PsiDirectoryNode" />
+              <item name="chap15stringsrevisited" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafortesters" type="462c0819:PsiDirectoryNode" />
+              <item name="chap15stringsrevisited" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,32 +414,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCaseAndstartswithAndendswith">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="JunitExplorationTest.allAssertsMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaForTesters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap14junitexplored.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap14junitexplored" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap14junitexplored.JunitExplorationTest" />
-      <option name="METHOD_NAME" value="allAssertsMethod" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="JunitExplorationTest.assertThatMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
@@ -465,19 +441,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="JunitExplorationTest.hamcrestMatchersMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringClassExercise.stringCharConstruction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap14junitexplored.*" />
+          <option name="PATTERN" value="com.javafortesters.chap15stringsrevisited.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap14junitexplored" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap14junitexplored.JunitExplorationTest" />
-      <option name="METHOD_NAME" value="hamcrestMatchersMethod" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap15stringsrevisited.exercises" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap15stringsrevisited.exercises.StringClassExercise" />
+      <option name="METHOD_NAME" value="stringCharConstruction" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -488,19 +464,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="JunitExploration.arrayTechnicalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringRevisitTest.compareToAndCompareToIgnoreCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap14junitexplored.*" />
+          <option name="PATTERN" value="com.javafortesters.chap15stringsrevisited.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap14junitexplored" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap14junitexplored.JunitExploration" />
-      <option name="METHOD_NAME" value="arrayTechnicalTest" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap15stringsrevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap15stringsrevisited.examples.StringRevisitTest" />
+      <option name="METHOD_NAME" value="compareToAndCompareToIgnoreCase" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -511,19 +487,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="JunitExploration.invalidPasswordThrownBecauseOfLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringRevisitTest.contains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap14junitexplored.*" />
+          <option name="PATTERN" value="com.javafortesters.chap15stringsrevisited.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap14junitexplored" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap14junitexplored.JunitExploration" />
-      <option name="METHOD_NAME" value="invalidPasswordThrownBecauseOfLength" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap15stringsrevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap15stringsrevisited.examples.StringRevisitTest" />
+      <option name="METHOD_NAME" value="contains" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -534,19 +510,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="StringRevisitTest.usingEscapeCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaForTesters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap15stringsrevisited.*" />
+          <option name="PATTERN" value="com.javafortesters.chap15stringsrevisited.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap15stringsrevisited" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap15stringsrevisited.StringRevisitTest" />
-      <option name="METHOD_NAME" value="usingEscapeCharacters" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap15stringsrevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap15stringsrevisited.examples.StringRevisitTest" />
+      <option name="METHOD_NAME" value="contentEqualsAndEqualsAndEqualsIgnoreCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCaseAndstartswithAndendswith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaForTesters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.chap15stringsrevisited.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap15stringsrevisited.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap15stringsrevisited.examples.StringRevisitTest" />
+      <option name="METHOD_NAME" value="contentEqualsAndEqualsAndEqualsIgnoreCaseAndstartswithAndendswith" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -596,19 +595,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.JunitExploration.invalidPasswordThrownBecauseOfLength" />
-      <item itemvalue="JUnit.JunitExploration.arrayTechnicalTest" />
-      <item itemvalue="JUnit.JunitExplorationTest.allAssertsMethod" />
-      <item itemvalue="JUnit.JunitExplorationTest.hamcrestMatchersMethod" />
-      <item itemvalue="JUnit.StringRevisitTest.usingEscapeCharacters" />
+      <item itemvalue="JUnit.StringClassExercise.stringCharConstruction" />
+      <item itemvalue="JUnit.StringRevisitTest.compareToAndCompareToIgnoreCase" />
+      <item itemvalue="JUnit.StringRevisitTest.contains" />
+      <item itemvalue="JUnit.StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCase" />
+      <item itemvalue="JUnit.StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCaseAndstartswithAndendswith" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StringRevisitTest.usingEscapeCharacters" />
-        <item itemvalue="JUnit.JunitExplorationTest.hamcrestMatchersMethod" />
-        <item itemvalue="JUnit.JunitExplorationTest.allAssertsMethod" />
-        <item itemvalue="JUnit.JunitExploration.arrayTechnicalTest" />
-        <item itemvalue="JUnit.JunitExploration.invalidPasswordThrownBecauseOfLength" />
+        <item itemvalue="JUnit.StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCaseAndstartswithAndendswith" />
+        <item itemvalue="JUnit.StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCase" />
+        <item itemvalue="JUnit.StringRevisitTest.contains" />
+        <item itemvalue="JUnit.StringRevisitTest.compareToAndCompareToIgnoreCase" />
+        <item itemvalue="JUnit.StringClassExercise.stringCharConstruction" />
       </list>
     </recent_temporary>
   </component>
@@ -626,35 +625,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringRevisitTest_usingEscapeCharacters - 2019.04.07 at 10h 27m 52s.xml">
-      <configuration name="StringRevisitTest.usingEscapeCharacters" configurationId="JUnit" />
+    <history-entry file="StringRevisitTest_compareToAndCompareToIgnoreCase - 2019.04.13 at 19h 53m 50s.xml">
+      <configuration name="StringRevisitTest.compareToAndCompareToIgnoreCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringRevisitTest_usingEscapeCharacters - 2019.04.07 at 10h 29m 06s.xml">
-      <configuration name="StringRevisitTest.usingEscapeCharacters" configurationId="JUnit" />
+    <history-entry file="StringRevisitTest_compareToAndCompareToIgnoreCase - 2019.04.13 at 20h 00m 49s.xml">
+      <configuration name="StringRevisitTest.compareToAndCompareToIgnoreCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringRevisitTest_usingEscapeCharacters - 2019.04.07 at 10h 29m 25s.xml">
-      <configuration name="StringRevisitTest.usingEscapeCharacters" configurationId="JUnit" />
+    <history-entry file="StringRevisitTest_contains - 2019.04.13 at 20h 03m 41s.xml">
+      <configuration name="StringRevisitTest.contains" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringRevisitTest_usingEscapeCharacters - 2019.04.07 at 10h 31m 27s.xml">
-      <configuration name="StringRevisitTest.usingEscapeCharacters" configurationId="JUnit" />
+    <history-entry file="StringRevisitTest_contentEqualsAndEqualsAndEqualsIgnoreCase - 2019.04.13 at 20h 05m 55s.xml">
+      <configuration name="StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringRevisitTest_usingEscapeCharacters - 2019.04.07 at 10h 33m 53s.xml">
-      <configuration name="StringRevisitTest.usingEscapeCharacters" configurationId="JUnit" />
+    <history-entry file="StringRevisitTest_contentEqualsAndEqualsAndEqualsIgnoreCase - 2019.04.13 at 20h 07m 09s.xml">
+      <configuration name="StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringRevisitTest_usingEscapeCharacters - 2019.04.07 at 10h 35m 13s.xml">
-      <configuration name="StringRevisitTest.usingEscapeCharacters" configurationId="JUnit" />
+    <history-entry file="StringRevisitTest_contentEqualsAndEqualsAndEqualsIgnoreCase - 2019.04.13 at 20h 07m 27s.xml">
+      <configuration name="StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringRevisitTest_usingEscapeCharacters - 2019.04.07 at 10h 38m 32s.xml">
-      <configuration name="StringRevisitTest.usingEscapeCharacters" configurationId="JUnit" />
+    <history-entry file="StringRevisitTest_contentEqualsAndEqualsAndEqualsIgnoreCase - 2019.04.13 at 20h 08m 09s.xml">
+      <configuration name="StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringRevisitTest_usingEscapeCharacters - 2019.04.07 at 10h 42m 51s.xml">
-      <configuration name="StringRevisitTest.usingEscapeCharacters" configurationId="JUnit" />
+    <history-entry file="StringRevisitTest_contentEqualsAndEqualsAndEqualsIgnoreCase - 2019.04.13 at 20h 08m 25s.xml">
+      <configuration name="StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringRevisitTest_usingEscapeCharacters - 2019.04.07 at 10h 45m 10s.xml">
-      <configuration name="StringRevisitTest.usingEscapeCharacters" configurationId="JUnit" />
+    <history-entry file="StringRevisitTest_contentEqualsAndEqualsAndEqualsIgnoreCase - 2019.04.13 at 20h 08m 32s.xml">
+      <configuration name="StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCase" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringRevisitTest_usingEscapeCharacters - 2019.04.07 at 10h 46m 40s.xml">
-      <configuration name="StringRevisitTest.usingEscapeCharacters" configurationId="JUnit" />
+    <history-entry file="StringRevisitTest_contentEqualsAndEqualsAndEqualsIgnoreCase - 2019.04.13 at 20h 08m 39s.xml">
+      <configuration name="StringRevisitTest.contentEqualsAndEqualsAndEqualsIgnoreCase" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -663,23 +662,24 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49702382" weight="0.35657144" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49574015" weight="0.3564568" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5042598" side_tool="true" visible="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5063898" side_tool="true" visible="true" weight="0.39381003" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49574015" visible="true" weight="0.32977587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49361023" visible="true" weight="0.39381003" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32893157" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.74114776" weight="0.32699168" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7406816" weight="0.29669157" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24600638" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24866879" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24969475" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.39701173" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893504" weight="0.39701173" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32967034" />
@@ -687,7 +687,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -721,7 +720,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="49" />
+      <option name="time" value="50" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -729,20 +728,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainobject/TestAppEnv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/arraylistexplore/examples/Hadi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -1000,7 +985,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap009arraysandforloopiteration/examples/ArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="270">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1010,7 +995,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap0010introducingcollections/examples/TestList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
+        <state relative-caret-position="1440">
           <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1020,7 +1005,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap13moreaboutexceptions/examples/ExceptionTestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="555">
           <caret line="37" column="70" selection-start-line="37" selection-start-column="70" selection-end-line="37" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1065,7 +1050,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap14junitexplored/JunitExplorationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
+        <state relative-caret-position="1635">
           <caret line="113" column="10" selection-start-line="113" selection-start-column="10" selection-end-line="113" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1073,10 +1058,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/StringRevisitTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/CoreMatchers.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
+        <state relative-caret-position="175">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="e#4123#4124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/exercises/StringClassExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap15stringsrevisited/examples/StringRevisitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="119" column="52" lean-forward="true" selection-start-line="119" selection-start-column="52" selection-end-line="119" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
